@@ -4,19 +4,26 @@ I'm a french web developper in training is search of an apprenticeship starting 
 
 ### Stack:
 
+
+
+ <!--   Untrained,
+    Novice,
+    Average,
+    Expert, -->
+    
 I work with theses:
 
-| Skill            | level  | proficiency                                                 |
-| :--------------- | :----: | :---------------------------------------------------------- |
-| NextJs           | fluent | I'm confident with the CSR side of the framework            |
-| NestJs           | usable | I can build an e-commerce API in 2/3 days with it           |
-| Typescript       | usable | I can type primitives and know the basics of interfaces     |
-| Tailwind         | fluent | I use it on every projects                                  |
-| Node.js: Express | usable | Before learning Nest i have learned how to use Express      |
-| MySQL            | usable | I can write any CRUD queries, and i'm familiar with the doc |
-| MongoDB          | usable | A bit more confident than for MySQL                         |
-| Prisma           | usable | Used in one project, it feel easy                           |
-| React native     | usable | -                                                           |
+| Skill            | level   | proficiency                                                 |
+| :--------------- | :----:  | :---------------------------------------------------------- |
+| NextJs           | average | I'm confident with the CSR side of the framework            |
+| NestJs           | novice  | I can build an e-commerce API in 2/3 days with it           |
+| Typescript       | average | I can type primitives and know the basics of interfaces     |
+| Tailwind         | average | I use it on every projects                                  |
+| Node.js: Express | novice  | Before learning Nest i have learned how to use Express      |
+| MySQL            | average | I can write any CRUD queries, and i'm familiar with the doc |
+| MongoDB          | novice  | A bit more confident than for MySQL                         |
+| Prisma           | novice  | Used in one project, it feel easy                           |
+| React native     |    -    | -                                                           |
 
 ### What i like:
 
