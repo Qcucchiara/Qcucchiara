@@ -1,6 +1,6 @@
 # Hi, I’m Quentin (@Qcucchiara)
 
-I'm a french web developper in training is search of an apprenticeship starting early 2025 for a preiod of 18 months.
+I'm a french web developper in training is search of an apprenticeship starting early 2025 for a period of 18 months.
 
 ### Stack:
 
