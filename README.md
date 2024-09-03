@@ -40,10 +40,10 @@ I don't like black box frameworks and dependencies when i don't understand what 
 
 - 🌱 I’m currently learning ...
 
-  - kotlin with jetpack compose
   - how to locally integrate AI in app
-
-<!-- - 💞️ I’m looking to collaborate on ...
+  - how to use designs paterns from the book on the same name
+  <!-- - kotlin with jetpack compose
+  - 💞️ I’m looking to collaborate on ...
 
   - s -->
 
