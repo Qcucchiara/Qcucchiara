@@ -34,7 +34,7 @@ I don't like black box frameworks and dependencies when i don't understand what 
 
 - 👀 I’m interested in ...
 
-  - C, C#, C++
+  - C languages (C, C++, C#) 
   - OOP, functionnal programming, algorithmy...
   - AI
 
