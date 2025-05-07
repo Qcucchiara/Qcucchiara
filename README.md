@@ -1,30 +1,16 @@
 ## Bonjour 👋, Je suis Phost, développeur web et concepteur développeur d'application en devenir
 je suis actuellement à la recherche d'un stage de 5 mois entre le 8 septembre 2025 et le 16 janvier 2026 dans le cadre de ma formation.
 
-## 💻 Tech Landscape
+## 🖥️ Architecture Technique
 
-|🚀 Fullstack            |🔧 DevOps           |🗄️ Databases|
-|------------------------|--------------------|------------|
-| ├─ ◉ Next.js (Front)   | ├─ 🐳 Docker       | |
-| ├─ ◉ NestJS (Back)     | ├─ ⚙️ GitLab CI    |  |
-| └─ ◉ Symfony (Back)    | └─ 🐧 Ubuntu       |      |
+| Catégorie         | Technologies                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------|
+| **🚀 Frontend**   | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) |
+| **🔧 Backend**    | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony) |
+| **🗃️ Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) 🐬 MySQL |
+| **🛠️ DevOps**    | 🐳 Docker ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?logo=gitlab) ☁️ AWS Basics 🐧 Ubuntu |
+| **🎨 Design**     | ✏️ Figma 🎯 Adobe XD (notions)                                                                 |
 
-```text  
-🚀 Fullstack
-  ├─ ◉ Next.js (Front)
-  ├─ ◉ NestJS (Back)
-  └─ ◉ Symfony (Back)
-
-🔧 DevOps
-  ├─ 🐳 Docker
-  ├─ ⚙️ GitLab CI
-  └─ 🐧 Ubuntu
-
-🗄️ Databases
-  ├─ 🍃 MongoDB
-  ├─ 🐘 PostgreSQL
-  └─ 🐬 MySQL
-```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
