@@ -1,30 +1,17 @@
 ## Bonjour 👋, Je suis Phost, développeur web et concepteur développeur d'application en devenir
 je suis actuellement à la recherche d'un stage de 5 mois entre le 8 septembre 2025 et le 16 janvier 2026 dans le cadre de ma formation.
 
-## 💻 Tech Landscape
+## 🔨 Mes Outils Principaux
 
-|🚀 Fullstack            |🔧 DevOps           |🗄️ Databases|
-|------------------------|--------------------|------------|
-| ├─ ◉ Next.js (Front)   | ├─ 🐳 Docker       |     |
-| ├─ ◉ NestJS (Back)     | ├─ ⚙️ GitLab CI    |      |
-| └─ ◉ Symfony (Back)    | └─ 🐧 Ubuntu       |      |
+```text
+│──────────────│──────────────│───────────────│
+│  Front/Back  │    DevOps    │  Databases    │
+│──────────────│──────────────│───────────────│
+│ ► Next.js    │ ► Docker     │ ► MongoDB     │
+│ ► NestJS     │ ► GitLab CI  │ ► PostgreSQL  │
+│ ► Symfony    │ ► Ubuntu     │ ► MySQL       │
+│──────────────│──────────────│───────────────│
 
-```text  
-🚀 Fullstack
-  ├─ ◉ Next.js (Front)
-  ├─ ◉ NestJS (Back)
-  └─ ◉ Symfony (Back)
-
-🔧 DevOps
-  ├─ 🐳 Docker
-  ├─ ⚙️ GitLab CI
-  └─ 🐧 Ubuntu
-
-🗄️ Databases
-  ├─ 🍃 MongoDB
-  ├─ 🐘 PostgreSQL
-  └─ 🐬 MySQL
-```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
