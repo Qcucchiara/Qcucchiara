@@ -30,6 +30,12 @@ je suis actuellement à la recherche d'un stage de 5 mois entre le 8 septembre 2
 ```
 
 - 🔭 Je développe sur mon temps libre un moteur de jeu 2d avec architecture ECS
+
+
+<div align="center">
+     <img src="Screenshot From 2025-05-07 19-15-21.png" border="0">
+</div>
+
 - 🌱 J'apprend actuellement l'architecture ECS, la méthodologie scrum et devops 
 - 👯 Mon objectif final est d'intégrer une équipe en tant qu'architecte logiciel
 - 🤔 Je recherche un accompagnement pour m'aider à monter en compétence et je pourrais apporter mon esprit de sorcier aiguisée 
