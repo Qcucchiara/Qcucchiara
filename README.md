@@ -1,9 +1,30 @@
-## Hi there 👋
+## Bonjour 👋, Je suis Phost, développeur web et concepteur développeur d'application en devenir
+je suis actuellement à la recherche d'un stage de 5 mois entre le 8 septembre 2025 et le 16 janvier 2026 dans le cadre de ma formation.
 
-<!--
-**Qcucchiara/Qcucchiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Landscape
 
-Here are some ideas to get you started:
+|🚀 Fullstack            |🔧 DevOps           |🗄️ Databases|
+|------------------------|--------------------|------------|
+| ├─ ◉ Next.js (Front)   | ├─ 🐳 Docker       | |
+| ├─ ◉ NestJS (Back)     | ├─ ⚙️ GitLab CI    |  |
+| └─ ◉ Symfony (Back)    | └─ 🐧 Ubuntu       |      |
+
+```text  
+🚀 Fullstack
+  ├─ ◉ Next.js (Front)
+  ├─ ◉ NestJS (Back)
+  └─ ◉ Symfony (Back)
+
+🔧 DevOps
+  ├─ 🐳 Docker
+  ├─ ⚙️ GitLab CI
+  └─ 🐧 Ubuntu
+
+🗄️ Databases
+  ├─ 🍃 MongoDB
+  ├─ 🐘 PostgreSQL
+  └─ 🐬 MySQL
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +34,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
