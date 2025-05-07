@@ -28,7 +28,7 @@ je suis actuellement à la recherche d'un stage de 5 mois entre le 8 septembre 2
 │ ► PHP          │
 │────────────────│
 ```
-- 🔭 Je développe sur mon temps libre un moteur de jeu 2d avec architecture ECS
+## 🔭 Je développe sur mon temps libre un moteur de jeu 2d avec architecture ECS
 ```mermaid
 classDiagram
     class IdManager {
