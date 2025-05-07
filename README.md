@@ -1,7 +1,7 @@
-## Bonjour 👋, Je suis Phost, développeur web et concepteur développeur d'application en devenir
+## Bonjour, Je suis Phost, développeur web et concepteur développeur d'application en devenir
 je suis actuellement à la recherche d'un stage de 5 mois entre le 8 septembre 2025 et le 16 janvier 2026 dans le cadre de ma formation.
 
-## 🧩 Stack Technique
+## Stack Technique
 ```text
 │────────────────│   │─────────────────│   │──────────────│   │───────────────│
 │  Frameworks    │   │  Libraries      │   │  DevOps      │   │  Databases    │
